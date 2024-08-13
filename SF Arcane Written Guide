@@ -15,9 +15,6 @@ General prio
 - Missiles if NP is down, or at 3 stacks of clearcasting. Goal is Missiles and blast blast or blast blast barrage (intuition or burden is up)
 - Otherwise arcane blast
 
-Generally I recommend not spending your final clearcasting if missiles is available at 4 Spellfire Spheres. This feels more consistant ingame and makes it so you almost always have a missiles for burden.
-(Sim here: https://www.raidbots.com/simbot/report/i6zVkAYPjzfJbahd77iA1k)
-
 If you are 5 Spellfire Spheres
 - Use Missiles if you dont have NP, then blast blast barrage
 - otherwise Use blast
@@ -26,6 +23,13 @@ If you are 5 Spellfire Spheres
 If Burden of Power is up
 - Use Missiles if you dont have NP, then blast barrage
 - otherwise Use blast barrage
+
+################################################
+
+OPTIONAL: Not spending your final clearcasting if missiles is available at 4 Spellfire Spheres makes the rotation feel since you almost always have a missiles for burden.
+(Sim here: https://www.raidbots.com/simbot/report/i6zVkAYPjzfJbahd77iA1k)
+The choice here is up to you, since both ways do basically the same damage. Im already paying attention to 4 since 5 is next, but doing this is a bit more complicated on paper.
+Ingame it feels more natural, but that's a matter of preference. 
 
 ################################################
 
