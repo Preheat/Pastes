@@ -1,4 +1,4 @@
-Note: this is a simplified version and subject to change:
+Note: this is a simplified version of ST and may be old since I wrote this for one youtube commenter. Always trust the sim / AT discord over this:
 
 The opener is Evocation, into missiles, into Arcane Surge and TOTM, then Missiles, Arcane Blast
 - After this, use normal rotation
@@ -6,16 +6,15 @@ The opener is Evocation, into missiles, into Arcane Surge and TOTM, then Missile
 ################################################
 
 Intuition 4p Tier change:
-When intuition procs, queue barrage after your blast cast, so long as it doesnt waste Burden
+When intuition procs, queue barrage after your blast cast, so long as it doesnt waste Burden. If you have NP up double dip with it on the last stack
 
-The normal rotation is:
-If you are 0-3 Spellfire Spheres
-- If you are at 3 clearcasting cast missiles regardless of NP
-- Use Missiles if you dont have NP, then blast blast
-- otherwise Use blast
+- Shifting power if you are out of CDs and cooldowns get full CDR from it (12+time spent channeling it)
+- Orb if you are less than 2 charges and arcane soul is down
+- Barrage after your Blast with burden (queue it), with Glorious Incandescence up (if you didnt do the queue with burden for whatever reason), or for intuition (see above), or if you have 4 charges and TOTM is going to be used.
+- Missiles if NP is down, or at 3 stacks of clearcasting. Goal is Missiles and blast blast or blast balast barrage (intuition or burden is up)
+- Otherwise arcane blast
 
-If you are 4 Spellfire Spheres
-- Use blast
+Generally I recommend not spending your final clearcasting if missiles is available at 4 Spellfire Spheres. Feels more consistant and makes it always up for 5. Sim doesnt do this and over 10000+ iterations the damage is within .1%. 
 
 If you are 5 Spellfire Spheres
 - Use Missiles if you dont have NP, then blast blast barrage
