@@ -34,33 +34,26 @@ race=maghar_orc
 
 copy=Zandalari_Troll(Akunda)
 race=zandalari_troll
-
-copy=Zandalari_Troll_(Akunda)
 zandalari_loa=akunda
 
 copy=Zandalari_Troll_(Bwonsamdi)
 race=zandalari_troll
-copy=Zandalari_Troll_(Bwonsamdi)
 zandalari_loa=bwonsamdi
 
 copy=Zandalari_Troll_(Gonk)
 race=zandalari_troll
-copy=Zandalari_Troll_(Gonk)
 zandalari_loa=gonk
 
 copy=Zandalari_Troll_(Kimbul)
 race=zandalari_troll
-copy=Zandalari_Troll_(Kimbul)
 zandalari_loa=kimbul
 
 copy=Zandalari_Troll_(Kragwa)
 race=zandalari_troll
-copy=Zandalari_Troll_(Kragwa)
 zandalari_loa=kragwa
 
 copy=Zandalari_Troll_(Pa'ku)
 race=zandalari_troll
-copy=Zandalari_Troll_(Pa'ku)
 zandalari_loa=paku
 
 copy=Vulpera
