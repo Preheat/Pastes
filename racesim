@@ -11,6 +11,15 @@ race=blood_elf
 copy=Orc
 race=orc
 
+copy=Dracthyr
+race=dracthyr
+
+copy=Earthen
+race=earthen
+
+copy=Haranir
+race=haranir
+
 copy=Tauren
 race=tauren
 
@@ -67,8 +76,6 @@ race=gnome
 
 copy=Human
 race=human
-
-
 
 copy=Worgen
 race=worgen
